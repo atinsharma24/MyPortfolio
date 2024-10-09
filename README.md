@@ -1,5 +1,7 @@
 # Atin Sharma's Portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68f74ab5-a68a-44db-803f-f78b78b7af78/deploy-status)](https://app.netlify.com/sites/atin/deploys)
+
 Welcome to my portfolio! I'm Atin Sharma, a passionate **Computer Science Engineering** student at **VIT Vellore**, with a keen interest in **Cybersecurity**, **Machine Learning**, **Linux**, and **Quantum Physics**. I love exploring the vast and mysterious depths of technology, space, and the quantum world.
 
 ---
